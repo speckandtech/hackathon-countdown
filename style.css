@@ -19,6 +19,15 @@ body {
   line-height: 1.5;
 }
 
+a {
+  color: inherit;
+}
+
 #countdown {
   font-size: 8em;
+}
+
+#submission {
+  font-size: 3em;
+  font-weight: bold;
 }
